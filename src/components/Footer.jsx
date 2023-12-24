@@ -42,7 +42,7 @@ function Footer() {
 
          {/* Columna 4 */}
          <div className="col-md-3">
-            <img src="/public/assets/landing/Footer_logo1.png" style={{width:'70%'}} alt="" />
+            <img src="/assets/landing/Footer_logo1.png" style={{width:'70%'}} alt="" />
             
         </div>
         </div>

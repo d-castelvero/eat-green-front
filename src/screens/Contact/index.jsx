@@ -70,7 +70,7 @@ function Contact() {
     <>
      <img
         width="100%"
-        src="/public/assets/contacto/Banner-top.png"
+        src="/assets/contacto/Banner-top.png"
         alt="banner"
       />
       <Container>
@@ -159,7 +159,7 @@ function Contact() {
 
       <img
           width="100%"
-          src="/public/assets/contacto/Banner-bottom.png"
+          src="/assets/contacto/Banner-bottom.png"
         />
 
      

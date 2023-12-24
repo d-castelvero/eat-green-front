@@ -10,13 +10,13 @@ function Nosotros() {
     
       <img
         width="100%"
-        src="/public/assets/nosotros/sobre-nos.png"
+        src="/assets/nosotros/sobre-nos.png"
         alt="banner"
       />
       <Container
         style={{ display: "flex", flexDirection: "row", paddingTop: "50px" }}>
         <img
-          src="/public/assets/nosotros/Image.png"
+          src="/assets/nosotros/Image.png"
           alt=""
           style={{ width: "500px" }}
         />
@@ -50,7 +50,7 @@ function Nosotros() {
 <div style={{display:'flex', flexDirection:'row', justifyContent:'center', gap:'20px', backgroundColor:'#F9F8F8', padding:'80px'}}>
 
       <Card style={{ width: '18rem', display:'flex', flexDirection:'column',alignItems:'center', border:'none' }}>
-      <Card.Img variant="top" src="/public/assets/nosotros/Icon.png" style={{width:'80px', paddingTop:'50px'}} />
+      <Card.Img variant="top" src="/assets/nosotros/Icon.png" style={{width:'80px', paddingTop:'50px'}} />
       <Card.Body>
         <Card.Title>Politica de Devolucion</Card.Title>
         <Card.Text>
@@ -60,7 +60,7 @@ function Nosotros() {
     </Card>
 
     <Card style={{ width: '18rem', display:'flex', flexDirection:'column',alignItems:'center',  border:'none' }}>
-      <Card.Img variant="top" src="/public/assets/nosotros/Icon-1.png" style={{width:'80px', paddingTop:'50px'}} />
+      <Card.Img variant="top" src="/assets/nosotros/Icon-1.png" style={{width:'80px', paddingTop:'50px'}} />
       <Card.Body>
         <Card.Title>100% Frescos</Card.Title>
         <Card.Text>
@@ -70,7 +70,7 @@ function Nosotros() {
     </Card>
 
     <Card style={{ width: '18rem', display:'flex', flexDirection:'column',alignItems:'center',  border:'none' }}>
-      <Card.Img variant="top" src="/public/assets/nosotros/Icon-2.png" style={{width:'80px', paddingTop:'50px'}} />
+      <Card.Img variant="top" src="/assets/nosotros/Icon-2.png" style={{width:'80px', paddingTop:'50px'}} />
       <Card.Body>
         <Card.Title>Soporte 24/7</Card.Title>
         <Card.Text>
@@ -79,7 +79,7 @@ function Nosotros() {
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem', display:'flex', flexDirection:'column',alignItems:'center' ,  border:'none'}}>
-      <Card.Img variant="top" src="/public/assets/nosotros/Icon-3.png" style={{width:'80px', paddingTop:'50px'}} />
+      <Card.Img variant="top" src="/assets/nosotros/Icon-3.png" style={{width:'80px', paddingTop:'50px'}} />
       <Card.Body>
         <Card.Title>Pagos Seguros</Card.Title>
         <Card.Text>
@@ -94,7 +94,7 @@ function Nosotros() {
       {/* Banner Footer  */}
       <img
         width="100%"
-        src="/public/assets/Login/Banenr_Login_1.png"
+        src="/assets/Login/Banenr_Login_1.png"
         alt="banner"
       />
     </>

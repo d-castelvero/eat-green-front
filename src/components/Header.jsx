@@ -43,7 +43,7 @@ function Header() {
   ];
   return (
     <Container style={{justifyContent:'space-around'}}>
-      <img width="150px" src="/public/assets/landing/Eat_green_logo.png" alt="logo" />
+      <img width="150px" src="/assets/landing/Eat_green_logo.png" alt="logo" />
 
       <TabsContainer>
         {tabs.map((item) => (

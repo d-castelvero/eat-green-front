@@ -31,7 +31,7 @@ function Home() {
 
   return (
     <>
-      <img width="100%" src="/public/assets/landing/Banner_1.png" alt="banner" />
+      <img width="100%" src="/assets/landing/Banner_1.png" alt="banner" />
 
 
 

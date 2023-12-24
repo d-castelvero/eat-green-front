@@ -122,10 +122,10 @@ function User() {
           </TabsContainer>
         </FormContainer>
 
-        <img width="50%" src="/public/assets/Login/Image_1.png" />
+        <img width="50%" src="/assets/Login/Image_1.png" />
       </Container>
 
-      <img width="100%" src="/public/assets/Login/Banenr_Login_1.png" />
+      <img width="100%" src="/assets/Login/Banenr_Login_1.png" />
 
     </>
   );
@@ -224,10 +224,10 @@ function Profile(user_email) {
           </TabsContainer>
         </FormContainer>
 
-        <img width="50%" src="/public/assets/Login/Image_1.png" />
+        <img width="50%" src="/assets/Login/Image_1.png" />
       </Container>
 
-      <img width="100%" src="/public/assets/Login/Banenr_Login_1.png" />
+      <img width="100%" src="/assets/Login/Banenr_Login_1.png" />
 
 
      
